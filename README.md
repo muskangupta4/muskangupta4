@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...full stack and cloud
 - 📫 How to reach me ...email me -> guptamuskan287@gmail.com
-- 👀 Just have a look on - -https://www.youtube.com/channel/UCohNr_w9L9mYVDSWBPSdQYQ
+- 👀 Just have a look on - https://www.youtube.com/channel/UCohNr_w9L9mYVDSWBPSdQYQ
 
 
 <!---
